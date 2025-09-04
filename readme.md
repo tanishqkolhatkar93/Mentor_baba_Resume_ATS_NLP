@@ -68,17 +68,7 @@ Now just make sure your folder includes:
 ├── requirements.txt
 └── README.md
 
----
 
-## ✅ Future Improvements
-
-Add NLP-powered embeddings (e.g., BERT) for deeper semantic matching.
-
-Support multiple resumes & bulk analysis.
-
-Deploy app on AWS/GCP/Streamlit Cloud.
-
-Add role-based ATS benchmarking for specific companies.
 
 
 

@@ -40,9 +40,10 @@ This is a Streamlit-based **Smart Resume Analyzer** tool built for academic or p
    ```bash
    python -m venv .venv
    .venv\Scripts\activate   # For Windows
+   
 👨‍💻 Author
-
-Made with ❤️ for academic/project use.
+Tanishq Kolhatkar
+Made with ❤️ .
 
 
 ---

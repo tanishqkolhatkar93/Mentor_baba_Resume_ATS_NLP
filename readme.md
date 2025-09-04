@@ -1,4 +1,4 @@
-# 📄 Smart Resume Analyzer (Domain-Based ATS)
+# 🧠 Live Resume Skill Analyzer
 
 This is a Streamlit-based **Smart Resume Analyzer** tool built for academic or portfolio use. It allows users to:
 
@@ -69,10 +69,20 @@ Now just make sure your folder includes:
 └── README.md
 
 
+## ✅ Future Improvements
+
+Add NLP-powered embeddings (e.g., BERT) for deeper semantic matching.
+
+Support multiple resumes & bulk analysis.
+
+Deploy app on AWS/GCP/Streamlit Cloud.
+
+Add role-based ATS benchmarking for specific companies.
 
 
 
-# 🧠 Live Resume Skill Analyzer
+
+# 
 
 A smart ATS (Applicant Tracking System) checker built with Streamlit, which analyzes resumes against trending domain-specific skills and generates an ATS Score with improvement suggestions.
 
